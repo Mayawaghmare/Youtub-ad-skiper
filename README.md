@@ -1,1 +1,1 @@
-# Youtub-ad-skiper
+# chrome-extension-youtube-ad-skip
